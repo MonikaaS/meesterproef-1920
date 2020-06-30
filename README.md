@@ -1,7 +1,7 @@
 # Meesterproef @cmda-minor-web 1920
 
 ## Lyvup
-# [live link](https://lyvup.herokuapp.com/) | [project repo](https://github.com/StefanGerrits2/Lyvup-prototype)
+### [live link](https://lyvup.herokuapp.com/) | [project repo](https://github.com/StefanGerrits2/Lyvup-prototype)
 
 
 Voor de meesterproef hebben wij de complimenten app van Lyvup kwa styling verbeterd en er een onboarding process aangekoppeld.
